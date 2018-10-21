@@ -23,7 +23,7 @@
 
 ### Sobre el profesor
 
-![panda_developer](https://pbs.twimg.com/media/C4I8FJzWQAUVNVR.jpg)
+![panda_developer](../assets/clase1/b71e52fa-3945-4264-b105-e44ae2acb5e3.jpeg)
 
 **Bio:**
 "#Maker, #IoT, #OpenSource | #JavaScript, #Node, #Python | Co-organizador de [@os_weekends](http://osweekends.com/) | Profe en [@fictiziaescuela](http://www.fictizia.com/profesores/) | Mentor en [@TetuanValley](https://twitter.com/tetuanvalley) | Autor de [#JavaScriptInspirate](https://leanpub.com/javascript-inspirate) | Freelance | xIBMer | xGoogler"
@@ -75,27 +75,27 @@
 ### Arquitectura de Internet 
 **Navegación**
 
-![img](http://www.simplimation.com/uploads/news/images/full/5-how-the-web-works.jpg)
+![img](../assets/clase1/87fa7372-9a78-4e24-8f46-13254f2b6979.jpeg)
 
 **Hosting**
 
-![img](http://dodynamic.com/wp-content/uploads/2009/08/website-house-analogy.jpg)
+![img](../assets/clase1/bdab7761-b43c-4f7c-809a-855413e72d0a.jpeg)
 
 **CMS (Back-End)**
 
-![img](https://www.inqbation.com/wp-content/uploads/2011/03/how-cms-works-0.jpg) 
+![img](../assets/clase1/ca30ca15-90e1-4d75-9140-3469ade6cc6a.html) 
 
 **CDN (Content Delivery Network)**
 
-![img](http://premium.wpmudev.org/blog/wp-content/uploads/2014/09/cdns.png)
+![img](../assets/clase1/4348712c-2304-429c-b501-5bc65a37c36d.html)
 
 **Tracking**
 
-![img](https://fpf.org/wp-content/uploads/2009/11/data.gif)
+![img](../assets/clase1/e1673374-dcd4-4d81-8f29-ae97b7fc8963.gif)
 
 **[W3C - World Wide Web Consortium](https://www.w3.org/)**
 
-![img](https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg)
+![img](../assets/clase1/76f0da3e-2311-4c32-9565-77aebe5d228b.svg)
 
 - [historia y logros](https://www.w3.org/2005/01/timelines/timeline-2500x998.png)
 
@@ -104,7 +104,7 @@
 
 ### HTML
 
-![img](https://programacion.net/files/article/20170421010425_html5.jpg)
+![img](../assets/clase1/c4b0be36-aef6-406d-9c8d-9ddf5d8f642c.jpeg)
 
   > HTML, sigla en inglés de HyperText Markup Language (lenguaje de marcas de hipertexto), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. Es un estándar a cargo del World Wide Web Consortium (W3C) o Consorcio WWW, organización dedicada a la estandarización de casi todas las tecnologías ligadas a la web, sobre todo en lo referente a su escritura e interpretación. Se considera el lenguaje web más importante siendo su invención crucial en la aparición, desarrollo y expansión de la World Wide Web (WWW). Es el estándar que se ha impuesto en la visualización de páginas web y es el que todos los navegadores actuales han adoptado.1
 
@@ -119,7 +119,7 @@
 
 ### CSS
 
-![img_logo](http://nexttechltd.com/wp-content/uploads/2017/04/html-5-css-3.jpg)
+![img_logo](../assets/clase1/d7b585ca-0253-4c60-a6f9-91b1bba7f86a.jpeg)
 
   > Hoja de estilo en cascada o CSS (siglas en inglés de cascading style sheets) es un lenguaje usado para definir y crear la presentación de un documento estructurado escrito en HTML o XML2 (y por extensión en XHTML). El World Wide Web Consortium (W3C) es el encargado de formular la especificación de las hojas de estilo que servirán de estándar para los agentes de usuario o navegadores.
   > La idea que se encuentra detrás del desarrollo de CSS es separar la estructura de un documento de su presentación.[CSS Wikiwand](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada)
@@ -136,7 +136,7 @@
 
 ### JavaScript
 
-![js_logo](https://pre00.deviantart.net/f72e/th/pre/f/2013/052/6/d/jake_the_dog___pure_css_adventure_time_wallpaper_by_sangreprimitiva-d5vs51f.png)
+![js_logo](../assets/clase1/926aef8c-c5a2-49c8-b826-4ebcc2f38980.jpeg)
 
 > JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
 
@@ -210,14 +210,14 @@
 
 ### Node.js
 
-![Node_logo](https://32414320wji53mwwch1u68ce-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/2000px-Node.js_logo.svg_.png)
+![Node_logo](../assets/clase1/634bcdeb-9caf-431c-9e78-0f5072a69ca2.png)
 
 > Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web. Fue creado por Ryan Dahl en 2009 y su evolución está apadrinada por la empresa Joyent, que además tiene contratado a Dahl en plantilla - [Wikipedia](https://www.wikiwand.com/es/Node.js)
 
 
 **Otra manera es posible**
 
-![bloqueo](https://servercheck.in/sites/servercheck.in/files/node-drupal-queue-comparison.jpg)
+![bloqueo](../assets/clase1/e65f9ae6-f4d1-490a-88e4-9367938ffaff.jpeg)
 
 
 **Puntos Fuertes**
@@ -310,7 +310,7 @@
   - etc...
 
 ### Entorno de desarollo moderno
-![Diversos Entornos](http://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2014/05/test-dev-and-production-environment.jpg)
+![Diversos Entornos](../assets/clase1/c31d7455-6856-4ef4-8a9a-ead4368c80ca.jpeg)
 - **[JSON](https://es.wikipedia.org/wiki/JSON)**
 - **[AJAX](https://es.wikipedia.org/wiki/AJAX)**
 - **[APIs Rest](https://es.wikipedia.org/wiki/Representational_State_Transfer)**
@@ -339,7 +339,7 @@
 
 **Cambios, cambios... y más cambios**
 
-![humor](https://camo.githubusercontent.com/fde3ba248dbb5c9c6f630159b9a6d48708f228e6/687474703a2f2f7777772e636f6d6d697473747269702e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30392f53747269702d5072656e6472652d6c652d747261696e2d656e2d6d61726368652d3635302d66696e616c656e676c697368312e6a7067)
+![humor](../assets/clase1/02687a0e-7191-4714-921e-0b5772be7f4d.jpeg)
 
 - [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.8byumpq6f)
 - [If Loving Computers is Wrong, I Don't Want to Be Right](http://blog.codinghorror.com/if-loving-computers-is-wrong-i-dont-want-to-be-right/)
@@ -396,7 +396,7 @@
 
 ### C9.io
 
-![c9_logo](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/8389/vz1XuNqHTyfO4YsqI3f2)
+![c9_logo](../assets/clase1/6df0030d-9ded-4f97-b9aa-da8647682228.png)
 
 **Características estrella**
 - Code together in real time
