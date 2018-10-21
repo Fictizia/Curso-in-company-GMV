@@ -35,7 +35,7 @@
 
 **Working Flow**
 
-![Como trabajar con Git](http://nvie.com/img/git-model@2x.png)
+![Como trabajar con Git](../assets/clase2/26180f4e-bf80-427c-8f51-4031d5ce4341.png)
 
 
 ### Github
@@ -79,8 +79,8 @@ git --version
 
 Configuración (entornos):
 
-[Repositorios locales y remotos](http://media.tumblr.com/tumblr_lbnpoxYtNm1qaku05.png)
-![Repositorios locales y remotos](http://media.tumblr.com/tumblr_lbnpoxYtNm1qaku05.png)
+[Repositorios locales y remotos](../assets/clase2/2cf09f58-82ab-41b3-8c2c-008ac3dc7b6f.png)
+![Repositorios locales y remotos](../assets/clase2/2cf09f58-82ab-41b3-8c2c-008ac3dc7b6f.png)
 
 - System (todos los usuarios)
     - git config --system
@@ -97,7 +97,7 @@ Configuración (entornos):
 
 **Comandos básicos**
 
-![data transport commands](https://s3.amazonaws.com/media-p.slid.es/uploads/479298/images/4043813/Screen-Shot-2015-06-24-at-8.37.13-PM-1024x663.png)
+![data transport commands](../assets/clase2/92d5d602-0977-4f11-ab91-a4cbce84bcd3.png)
 
 versión
 ```
@@ -649,13 +649,13 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 - [https://api.github.com/repos/{user}/{repo}](https://api.github.com/repos/OSWeekends/c9scripts)
 
 ### Resumen
-![Trabajar con Git/Github](http://www.geekgumbo.com/wp-content/uploads/2011/08/nvie-git-workflow-commands.png)
-[tamaño original](http://www.geekgumbo.com/wp-content/uploads/2011/08/nvie-git-workflow-commands.png)
+![Trabajar con Git/Github](../assets/clase2/7e73e94c-b460-4a60-999d-9c2ce77563c3.png)
+[tamaño original](../assets/clase2/7e73e94c-b460-4a60-999d-9c2ce77563c3.png)
 
 
 ### Git Drama: Microsfot compró Github
 
-![img](https://thepracticaldev.s3.amazonaws.com/i/5ccop0xkp5y5d81tfwi2.png)
+![img](../assets/clase2/6a6d5bc2-5a9f-499f-8fea-04198c7422f8.png)
 
 - [Con la compra de GitHub, Microsoft hace honor a su mantra: desarrolladores, desarrolladores, desarrolladores](https://www.xataka.com/aplicaciones/microsoft-punto-adquirir-github-desarrolladores-desarrolladores-desarrolladores)
 - [Confirmado: Microsoft compra GitHub por 7.500 millones de dólares](https://www.genbeta.com/actualidad/confirmado-microsoft-compra-github-7-500-millones-dolares)
@@ -676,7 +676,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Los principales jugadores
 
-![img](https://www.amarinfotech.com/wp-content/uploads/2017/05/GitLab-vs-GitHub-vs-bitbucket-1.jpg)
+![img](../assets/clase2/71fef175-5f00-4ed3-80bf-4dde81d48b40.jpeg)
 
 - [GitHub vs. Bitbucket vs. GitLab vs. Coding](https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1)
 - [The Key Differences : GitLab vs GitHub vs bitbucket](https://medium.com/@ramoliya/the-key-differences-gitlab-vs-github-vs-bitbucket-3d76c4bcf5e6)
@@ -687,12 +687,12 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Terminología
 
-![terminologia](https://about.gitlab.com/images/blogimages/gitlab-terminology.png)
+![terminologia](../assets/clase2/a302474c-b1be-4509-a49a-c9c40cdefd2b.png)
 
 
 ### Gitlab
 
-![logo](https://cdn.worldvectorlogo.com/logos/gitlab-1.svg)
+![logo](../assets/clase2/a407a557-bb31-456a-9f67-34df3f5ec040.svg)
 
 **Recursos**
 - [Canal oficial de Youtube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)
@@ -722,7 +722,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Bitbucket
 
-![Logo](https://www.atlassian.com/dam/jcr:bd56917e-e361-4f03-b672-9f5ef5b06e80/Bitbucket-blue.svg)
+![Logo](../assets/clase2/674d6764-8c20-466d-810a-91af5c66c728.svg)
 
 **Recursos**
 - [@bitbucket en Twitter](https://twitter.com/bitbucket)
@@ -760,7 +760,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Ejercicios
 
-![logo](https://c2.staticflickr.com/6/5547/12317670703_bc38a3ec49_b.jpg)
+![logo](../assets/clase2/c26b2ef4-1d03-421b-ba2c-dc1afb830eb2.jpeg)
 
 
 **1 -** Creamos una cuenta en Github y creamos un workespace con referencia a nuestro repositorio de GitHub en [c9.io](https://c9.io/) una vez hayamos recibido la invitación.
@@ -777,7 +777,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Tools for Web Developers
 
-![IMG](http://krystianczaplicki.com/wp-content/uploads/2018/07/chrome-devtools.jpg)
+![IMG](../assets/clase2/d5a5b694-01bd-41ac-b973-3fb1b3e13819.jpeg)
 
 **Recursos**
 - [Blog de Chromium](https://blog.chromium.org/)
@@ -799,13 +799,13 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Canary
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Google_Chrome_Canary.jpg)
+![Logo](../assets/clase2/5d6e3752-9a45-4d63-85eb-61515ab3c7db.jpeg)
 
 - [Web oficial](https://www.google.com/intl/en/chrome/canary/)
 
 ### PageSpeed
 
-![Logo](https://borjaarandavaquero.com/wp-content/uploads/2017/01/google-pagespeed.png)
+![Logo](../assets/clase2/945d925a-b534-4c21-9d24-3b2f326760a0.html)
 
 **Doc**
 - [PageSpeed](https://developers.google.com/speed/)
@@ -815,7 +815,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Lighthouse
 
-![img](https://searchengineland.com/figz/wp-content/seloads/2018/05/google-lighthouse-800x364.jpg)
+![img](../assets/clase2/8acdea42-75e3-435b-b9fb-c6e60f687c0c.jpeg)
 
 **Doc**
 - [Lighthouse en Github](https://github.com/GoogleChrome/lighthouse)
@@ -823,7 +823,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### puppeteer
 
-![img_logo](https://testinproduction.files.wordpress.com/2017/09/articleocw-599af35e5ad57.png?w=1000)
+![img_logo](../assets/clase2/5dcdeda5-147d-4ae2-acb2-e89b4002b9c5.png)
 
 **Doc**
 - [Web Oficial](https://pptr.dev/)
@@ -835,7 +835,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### Workbox
 
-![img_logo](https://csbun.github.io/workbox-examples/workbox-get-started/images/workbox_logo.png)
+![img_logo](../assets/clase2/30d13e52-7110-4f29-920f-ec49fbf1f2b7.png)
 
 **Doc**
 - [Video presentación](https://youtu.be/DtuJ55tmjps)
@@ -845,7 +845,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 ### ChromeDevTools
 
-![img_logo](https://articles.tbscg.com/wp-content/uploads/2015/09/google-chrome-devtools-banner.png)
+![img_logo](../assets/clase2/3cf66bee-006d-4ce7-958e-a8f7d117f853.png)
 
 **Recursos**
 - [Slack](https://chromiumdev.slack.com/?redir=%2Fmessages%2Fdevtools)
@@ -956,7 +956,7 @@ Recuerda que debes incluir este comando antes de tu próximo *git push*
 
 
 ### Extensiones para developers: SAFETY FIRST
-![IMG](https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/01/30060157/browser-extensions-security-featured-1024x672.jpg)
+![IMG](../assets/clase2/bda66300-977d-428d-943b-25ca98f4577e.jpeg)
 
 - [Browser Extensions Are a Privacy Nightmare: Stop Using So Many of Them](https://www.howtogeek.com/188346/why-browser-extensions-can-be-dangerous-and-how-to-protect-yourself/)
 - [Google Chrome WARNING – Using these popular extensions could put your computer at risk](https://www.express.co.uk/life-style/science-technology/907189/Google-Chrome-update-store-extensions-malware-browser-security-risk)
