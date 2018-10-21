@@ -18,6 +18,7 @@ Fecha | Teoría | Recursos | Descripción
 15/10/18 | [Clase 1](teoria/clase1.md) | [Clase 1](recursos/clase1.md) | Intro
 17/10/18 | [Clase 2](teoria/clase2.md) | [Clase 2](recursos/clase2.md) | Git/Github + Chrome DevTools + Reintro a Javascript I
 18/10/18 | [Clase 3](teoria/clase3.md) | [Clase 3](recursos/clase3.md) | Reintro a Javascript II
+22/10/18 | [Clase 4](teoria/clase4.md) | [Clase 4](recursos/clase4.md) | Funciones y conceptos avanzados de JavaScript
 
 
 Temario
