@@ -271,7 +271,7 @@ function testArreglos () {
 
 > Vamos a crear un sistema de control para el metro. Nuestro objetivo será desarrollar una aplicación para gestionarlo todo. Con este ejercicio nos centraremos en aplicar conceptos básicos de JavaScript
 
-![Foto de trenes](http://estaticos04.elmundo.es/elmundo/imagenes/2010/06/29/1277838432_0.jpg)
+![Foto de trenes](../assets/clase3/f91d648f-548a-4a24-9473-5308dc5b255e.jpeg)
 
 **1 -** Imprimimos por consola el estado de cada tren en movimiento de manera individualizada... usando *while*.
 
