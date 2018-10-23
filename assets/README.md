@@ -67,3 +67,17 @@
 - http://northstar-www.dartmouth.edu/doc/solaris-forte/manuals/tools++/tlsug/images/image2.gif 
 - https://i.imgur.com/8yKeaLf.jpg 
 - https://static.charlieharvey.org.uk/graphics/js-weird-parts.png 
+
+
+### clase5
+
+- https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/novedades-ecmascript6-t1.gif 
+- https://assets.contents.io/asset_Y9hpxcgL.png 
+- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/es6%20%26%20beyond/fig1.png 
+- https://mdn.mozillademos.org/files/8629/typed_arrays.png 
+- https://cdn-images-1.medium.com/max/1600/1*4KPIzPcEPAI0um7OQ-ibYw.jpeg 
+- https://mdn.mozillademos.org/files/8633/promises.png 
+- https://cdn-images-1.medium.com/max/1446/1*JhDw7yiwv5YOJIncUhCXQg.png 
+- https://i.ytimg.com/vi/LsynbD9gwqg/maxresdefault.jpg 
+- https://cdn-images-1.medium.com/max/1000/1*ReeHV0eEsfmMskVUk1vVog.png 
+- https://marsblogger.files.wordpress.com/2015/04/giga.png 
