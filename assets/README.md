@@ -90,3 +90,7 @@
 - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png 
 - http://xitrus.es/blog/imgs/nojquery.png 
 - https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg 
+
+### clase7
+
+- http://i.stack.imgur.com/liJ5u.png 
