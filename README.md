@@ -22,6 +22,8 @@ Fecha | Teoría | Recursos | Descripción
 24/10/18 | [Clase 5](teoria/clase5.md) | [Clase 5](recursos/clase5.md) | ES6, ES7, y nuevas versiones del lengauje
 25/10/18 | [Clase 6](teoria/clase6.md) | [Clase 6](recursos/clase6.md) | Gestión y manipulación de BOM, DOM, Etc...
 29/10/18 | [Clase 7](teoria/clase7.md) | [Clase 7](recursos/clase7.md) | Gestión de Eventos
+31/10/18 | [Clase 8](teoria/clase8.md) | [Clase 8](recursos/clase8.md) | Ajax (GET, POST, Json, Fetch, etc...)
+
 
 Temario
 =================
