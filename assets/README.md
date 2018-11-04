@@ -110,3 +110,22 @@
 - https://www.htmlgoodies.com/imagesvr_ce/8497/proxy_server.jpg 
 - http://jsonpwrapper.com/intro.png 
 - https://qph.ec.quoracdn.net/main-qimg-4d442c9be049f302435ccecd9f2cd756.webp 
+
+
+### clase9
+
+- https://bids.berkeley.edu/sites/default/files/kyle_blog_pic.png 
+- https://r3dux.org/wp-content/uploads/2011/06/DesignPatternRelationships.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/creational/factory/factory.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/creational/prototype/prototype.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/creational/singleton/singleton.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/structural/decorator/decorator.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/structural/facade/facade.png 
+- https://upload.wikimedia.org/wikipedia/commons/7/73/Module-software-design-pattern.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/chain_of_responsibility/chain_of_responsibility.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/iterator/iterator.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/mediator/mediator.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/observer/observer.png 
+- https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/observer/observer_seq.png 
+- http://i.imgur.com/bgqt2er.png 
+- https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif 

@@ -23,6 +23,7 @@ Fecha | Teoría | Recursos | Descripción
 25/10/18 | [Clase 6](teoria/clase6.md) | [Clase 6](recursos/clase6.md) | Gestión y manipulación de BOM, DOM, Etc...
 29/10/18 | [Clase 7](teoria/clase7.md) | [Clase 7](recursos/clase7.md) | Gestión de Eventos
 31/10/18 | [Clase 8](teoria/clase8.md) | [Clase 8](recursos/clase8.md) | Ajax (GET, POST, Json, Fetch, etc...)
+05/11/18 | [Clase 9](teoria/clase9.md) | [Clase 9](recursos/clase9.md) | Patrones y buenas prácticas
 
 
 Temario
