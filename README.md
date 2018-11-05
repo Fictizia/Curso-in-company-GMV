@@ -24,6 +24,7 @@ Fecha | Teoría | Recursos | Descripción
 29/10/18 | [Clase 7](teoria/clase7.md) | [Clase 7](recursos/clase7.md) | Gestión de Eventos
 31/10/18 | [Clase 8](teoria/clase8.md) | [Clase 8](recursos/clase8.md) | Ajax (GET, POST, Json, Fetch, etc...)
 05/11/18 | [Clase 9](teoria/clase9.md) | [Clase 9](recursos/clase9.md) | Patrones y buenas prácticas
+06/11/18 | [Clase 10](teoria/clase10.md) | [Clase 10](recursos/clase10.md) | Node para frontend (Node, NPM, Yarn, etc...)
 
 
 Temario
