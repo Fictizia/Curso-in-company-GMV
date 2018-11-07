@@ -25,6 +25,7 @@ Fecha | Teoría | Recursos | Descripción
 31/10/18 | [Clase 8](teoria/clase8.md) | [Clase 8](recursos/clase8.md) | Ajax (GET, POST, Json, Fetch, etc...)
 05/11/18 | [Clase 9](teoria/clase9.md) | [Clase 9](recursos/clase9.md) | Patrones y buenas prácticas
 06/11/18 | [Clase 10](teoria/clase10.md) | [Clase 10](recursos/clase10.md) | Node para frontend (Node, NPM, Yarn, etc...)
+08/11/18 | [Clase 11](teoria/clase11.md) | [Clase 11](recursos/clase11.md) | Automatización de Workflow con Gulp + NPM Scripts + Scaffolding con Yeoman
 
 
 Temario
