@@ -1878,13 +1878,3 @@ Running sanity checks on your system
 
 **Objetivo**
 - [yeoman/generator-webapp](https://github.com/yeoman/generator-webapp)
-
-
-
-### Ejercicios
-
-**1 -** Monta un `gulpfile` con tareas para tu proyeto!
-
-```javascript
-  //Solución
-```
