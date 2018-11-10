@@ -816,3 +816,5 @@ function getFilm(id, adapter) {
   });
 }
 ```
+
+[**Solución de los ejecicios**](https://github.com/josex2r/mocha-example)
