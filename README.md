@@ -28,6 +28,9 @@ Fecha | Teoría | Recursos | Descripción
 08/11/18 | [Clase 11](teoria/clase11.md) | [Clase 11](recursos/clase11.md) | Automatización de Workflow con Gulp + NPM Scripts + Scaffolding con Yeoman
 12/11/18 | [Clase 12](teoria/clase12.md) | [Clase 12](recursos/clase12.md) | Fundamentos de Testing en JS (Librerías, Unitarios, E2E...)
 
+### Foto Finish!
+![img_20181112_125451](https://user-images.githubusercontent.com/5110813/48354761-c6d10180-e692-11e8-9462-280a8601ccc9.png)
+
 
 
 Temario
